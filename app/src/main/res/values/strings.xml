@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="meme_app">Meme App</string>
+    <string name="part_1">part_1</string>
+    <string name="part_2">part_2</string>
+    <string name="part_3">part_3</string>
+    <string name="my_name_is_kaream_ahmed">My Name is Kaream</string>
+    <string name="my_age_21">My Age = 21</string>
+    <string name="background">background</string>
+    <string name="computer_engineering">Computer Engineering</string>
+</resources>
